@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './components/App';
+import App from './routes/App';
 
 const posts = [
     {id: 1, title: 'React', content: 'Welcome to learning React!'},
